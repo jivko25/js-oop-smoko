@@ -309,7 +309,7 @@ public class GameBoard extends JPanel implements KeyListener, ActionListener {
 				}
 				else
 				{
-					right = true;
+					right = false;
 					left = false;
 					up = true;
 					down = false;
